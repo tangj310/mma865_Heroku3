@@ -1,2 +1,2 @@
-# mma865-heroku
+# MMA865
 mma865-heroku
